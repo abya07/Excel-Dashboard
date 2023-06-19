@@ -1,4 +1,4 @@
-#Amazon US Sales Analysis
+# Amazon US Sales Analysis
 
 Link to the dashboard:
 https://1drv.ms/x/s!AuKBHWETOHBcgR5N2GtqrR70GJSR?e=AlbPtr
